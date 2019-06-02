@@ -1,0 +1,12 @@
+name: test
+channels:
+  - conda-forge
+dependencies:
+  - ipyvolume
+  - bqplot
+  - scipy
+  - voila=0.0.13
+  - numpy==1.16.*
+  - matplotlib==2.2.*
+  - seaborn==0.9.*
+  - pandas==0.24.*
