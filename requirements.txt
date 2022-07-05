@@ -1,0 +1,8 @@
+attrs
+jupyterlab>=3.0
+ipywidgets
+voila
+ipydatagrid
+pivottablejs
+ipyvuetify
+plotly
