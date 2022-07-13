@@ -1,6 +1,0 @@
-{
-  "VoilaConfiguration": {
-    "file_whitelist": "['.*\.(html|png|jpg|gif|svg|mp4|avi|ogg)']",
-    "theme": "dark"
-    }
-}
